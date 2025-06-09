@@ -42,8 +42,7 @@ But you can still check out sample designs and works in progress.
 
 ## 📬 Mawasiliano / Contact
 
-- 📧 **Email:** suleiman.designs@example.com *(badilisha kwa anwani halisi)*
-- 🌐 **Website:** [www.suleimandesigns.com](https://your-link.com) *(kama unayo)*
+- 📧 **Email:** suleimanlofy@gmail.com 
 - 📱 **WhatsApp / Simu:** +255788201846
 
 ---
