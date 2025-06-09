@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @catalyst-interior-designer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Suleiman!
+## 🎨 I'm an Interior Designer | Ceiling Expert | TV Wall Decor Specialist
+Welcome to my profile. I love working on:
+- 🛋️ TV wall designs
+- 🏠 Ceiling concepts
+- 🎨 Painting & molding
+- 🌐 Web design basics
 
-<!---
-catalyst-interior-designer/catalyst-interior-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me: suleimanlofy@gmail.com 
+
+🛠️ Projects:
+- [Catalyst Interior Site](https://catalyst-interior-designer.github.io/)
